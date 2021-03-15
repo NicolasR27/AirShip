@@ -1,0 +1,6 @@
+framework module Pods_Airship {
+  umbrella header "Pods-Airship-umbrella.h"
+
+  export *
+  module * { export * }
+}
